@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2.6
+email-validator
+python-dotenv
+requests
+yt-dlp
+reportlab
+google-genai
